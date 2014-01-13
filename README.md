@@ -27,3 +27,7 @@ Example, using D2Plug manifest:
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tylerwalts/d2plug-masterless-puppet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
